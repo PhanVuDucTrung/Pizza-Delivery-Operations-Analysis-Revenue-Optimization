@@ -43,7 +43,9 @@ Aligning with the core objectives of operations excellence, the SQL analysis gen
 
 ## 📁 6. Repository Guide
 * `sql`:
-*  **`database_setup.sql`: scripts to create the database schema and insert raw data.
-*  **`data_cleaning.sql`: Scripts handling messy text formats, null handling, and array conversions.
-*  **`Analysis.sql`: The core analytics script answering business questions logical
+   > `database_setup.sql`: scripts to create the database schema and insert raw data
+   
+   > `data_cleaning.sql`: Scripts handling messy text formats, null handling, and array conversions
+   
+   > `Analysis.sql`: The core analytics script answering business questions logical
 * `erd`: entities relationshop diagram
